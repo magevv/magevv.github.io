@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Aqua test page - index
 
 ![Image](encodelogo.svg)
 
