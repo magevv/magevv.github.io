@@ -79,6 +79,7 @@ footer {
 	margin: auto;
 	clear: both;
 	text-align: right;
+	height: 50px;
 }
 footer p {
 	padding: 20px;
